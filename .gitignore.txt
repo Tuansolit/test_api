@@ -63,3 +63,5 @@ customaddons/odoo_14_vn_accounting_package/
 /enterpriseaddons
 /enterpriseaddons/
 README.md
+**/__pycache__/
+*/__pycache__/*

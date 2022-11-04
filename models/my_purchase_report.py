@@ -3,7 +3,7 @@ from datetime import datetime
 
 
 class PurchaseReport(models.Model):
-    _name = 'purchase.report'
+    _name = 'my.purchase.report'
     _description = 'Description'
 
     department_id = fields.Many2one('hr.department')
